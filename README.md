@@ -22,7 +22,7 @@ We will use the well-known [Iris](https://archive.ics.uci.edu/ml/datasets/Iris) 
 We also use different strategies for evaluating models:
 
 * [Separate testing and training datasets](https://en.wikipedia.org/wiki/Test_set)
-* [k-fold Cross-validation](https://en.wikipedia.org/wiki/Cross-validation_(statistics)
+* [k-fold Cross-validation](https://en.wikipedia.org/wiki/Cross-validation_(statistics))
 
 Some simple data investigation methods and tools will be undertaken as well, including:
 
